@@ -1,3 +1,9 @@
+Fork Notes
+==========
+
+Forked and updated assets to the lastest Trumboyg
+
+
 Trumbowyg Rails
 ==============
 
